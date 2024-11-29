@@ -1,0 +1,5 @@
+train: C:/Users/juan/Documents/ml-labels/datasets/train/images
+val: C:/Users/juan/Documents/ml-labels/datasets/valid/images
+
+nc: 2
+names: ['0', 'date']
